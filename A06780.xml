@@ -1723,7 +1723,13 @@ the 150 part or number, and then set the two points of a paire of compasses vpon
                   </gap> Sine is halfe the Subtence of of the double Arke.</p>
                <p>
                   <pb n="169" facs="tcp:10323:93"/>A Subtence, sometimes called a Cord, is a right line drawne from any part of the Circumference of a Circle, vnto any other part of the same Cir<g ref="char:EOLhyphen"/>cumference, so the right line DE is the Subtence or Cord of the Ark DGH halfe of which is DF, the Sine of the Arke DG; and so is MN the Subtence of the Circumference or Arke MGN, halfe of it is MI, which is the Sine of the Arke MG; now the Arke MG is halfe of the Arke MGN, and MI is halfe of the Subtence of that double Arke, <hi>viz.</hi> MGN; hence it is accor<g ref="char:EOLhyphen"/>ding to the definition aforesaid, that the Sine of any Arke is halfe the Sub<g ref="char:EOLhyphen"/>tence of the double Arke; by the same reason OT is the Sine of the Arke BO and MS is the Sine of the Arke BOM and so of others.</p>
-               <figure/>
+               <p>Note that the Sine of any Arke lesse
+<pb n="170" facs="tcp:10323:94"/>
+then a Quadrant is also the Sine of the complement of that Arke vnto a Se<g ref="char:EOLhyphen"/>micircle, so the Sine of BO 20 degrees being OT the same OT is also the
+<figure/>
+Sine of the Arke OGL 160 degrees, for that the Subtence of an Arke of a Circle is common both to the lesser Segment that it subtendeth, and also
+<pb n="171" facs="tcp:10323:94"/>
+to the greater, and therefore halfe of the Subtence wich is the Sine shall be common vnto halfe the lesser Segment and also vnto halfe of the greater, which two halfes put together make a Semicircle; and therefore the one is the Complement of the other.</p>
                <p>Note further that the totall Sine, the Sine of 90, or the Radius, is no<g ref="char:EOLhyphen"/>thing else but the Semidiameter of a<g ref="char:EOLhyphen"/>ny Circle, <hi>viz.</hi> CB, or CG.</p>
                <p>If a line be drawne tou<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -1745,7 +1751,31 @@ the line Tangent, so that it passe by the given Arke, so if BO be a given Arke, 
             <div type="proposition">
                <pb n="171" facs="tcp:10323:95"/>
                <head>PROPOSITION. XII. Hovv to take any altitude or distance by the Sines, Tangents and Secants.</head>
-               <figure/>
+               <p>
+                  <seg rend="decorInit">F</seg>Irst of all is to bee no<g ref="char:EOLhyphen"/>ted that in all triangles as each side is the one to the other, even so each sine will bee one to the other: that is to say, each sine of a triangle equilaterall shall bee equall amongst themselues, or one sine, as the sides of that triangle are all equall,
+<pb n="172" facs="tcp:10323:96"/>
+and the sine of a Scalene triangle shall be all inequall and different amongst themselues, as the three sides of the triangle are different one from ano<g ref="char:EOLhyphen"/>ther. Now for operation let it be pro<g ref="char:EOLhyphen"/>posed to take the Altitude AB, to the base or foundation whereof you may well approach, then there begin to measure your paces or fathoms from the base B to some place in the plaine which I suppose to be C, and there set your instrument either Sec<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or, Gra<g ref="char:EOLhyphen"/>phometer, or anie other with which you may take the degrees of an angle, and in the point C, take that angle which is found to be of 39. degrees, &amp; the angle B is already knowne to bee of 90 degrees, the Tower standing vpright. now rests to know the de<g ref="char:EOLhyphen"/>grees of the angle A, which to obtaine adde 90. to 39. and it maketh 129
+<pb n="173" facs="tcp:10323:96"/>
+which you must substract from 180. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd then will rest 51. which the an<g ref="char:EOLhyphen"/>gle A containeth, and so the three an<g ref="char:EOLhyphen"/>gles are knowne, and the one side of
+<figure/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he triangle BC, is also knowne to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ontaine as I here suppose a hundr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>athom, and to know the quantity of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he other two sides AB and AC, by
+<pb n="174" facs="tcp:10323:97"/>
+the sines, tangents, or secants, you must seeke in a table of sines the sines of each angle which will be found as followeth, the sine totale, or the demi<g ref="char:EOLhyphen"/>diameter being supposed of 100,000 parts, the angle<g ref="char:punc">▪</g>
+               </p>
                <p>A of 51, degrees will haue for his sines, 77715, parts.</p>
                <p>B of 90. degrees will haue for his sines, 100,000. parts.</p>
                <p>C of 39. degrees will haue for his sines, 62932. parts.</p>
@@ -1858,7 +1888,11 @@ the wall in the inside to strengthen it against Canon shot.</p>
                <p>And againe, the arke BT into foure other equall parts, and O<hi>B</hi> shall bee an arke of 7½ degrees, by which draw the line CO, and it shall forme the di<g ref="char:EOLhyphen"/>minished
 <pb n="190" facs="tcp:10323:105"/>
 angle OCB of 7½ degrees.</p>
-               <figure/>
+               <p>Then diuide each side of the trian<g ref="char:EOLhyphen"/>gle in two equall parts by the points <hi>QPR,</hi> and draw the strait lines
+<figure/>
+                  <hi>QC.</hi> PB. AR. &amp; the center of the fort shal be <hi>D,</hi> &amp; the intersection E, which is made by the line OC, shal be center of one bastion, and the line BE is the
+<pb n="191" facs="tcp:10323:105"/>
+Capitall line which shal be transpor<g ref="char:EOLhyphen"/>ted into <hi>CF</hi> and <hi>AG,</hi> then draw the straight lines BF, FA. CG. and AE, which shal forme the diminished an<g ref="char:EOLhyphen"/>gles, and become lines of defence.</p>
                <p>And to find the point for the flanke diuide the angle <hi>QCE</hi> in two equall parts by the straight lines <hi>C</hi>H, which teacheth vs the point I, for the flanke and then take the distance FI, and car<g ref="char:EOLhyphen"/>ry it to EK, and the point K shall be a<g ref="char:EOLhyphen"/>nother flanke, then draw the lines of the flankes KN and IM perpendicu<g ref="char:EOLhyphen"/>larly to the courtine KI, which is drawn from the flanke K to the flank I, and the same vpon the two other sides, and you shall haue the triangu<g ref="char:EOLhyphen"/>ler sort perfect.</p>
                <p>The flanked angle is of 45. degrees, and the flanking angle is 165. degrees
 <pb n="192" facs="tcp:10323:106"/>
@@ -1915,7 +1949,10 @@ angle EAC in two equal parts by the right line HA and the intersection which it 
                <p>From the point D, draw the straight line DB, which cutting the line AC at the pont E, doth giue the di<g ref="char:EOLhyphen"/>stance
 <pb n="199" facs="tcp:10323:109"/>
 AE for the capitall line, then transport that distance to BF.</p>
-               <figure/>
+               <p>
+                  <figure/> and so round to each angle, &amp; draw the straight lines DB AF and the o<g ref="char:EOLhyphen"/>thers like vnto them which shall be
+<pb n="200" facs="tcp:10323:110"/>
+hereafter the lines of defence.</p>
                <p>And to find the point for the Flank diuide the angle D<hi>B</hi>C in two equall parts by the straight line G<hi>B,</hi> which cutting the line AF at the point H doth shew that point for the Flanke, then take that distance HF, and tran<g ref="char:EOLhyphen"/>sport it to EI, and to all the rest.</p>
                <p>From the point I, draw the straight lines IK perpendicularly to the curtin IH, and draw the other line HL per<g ref="char:EOLhyphen"/>pendicularly also, and doe the same vpon each other side, and you shall haue the Hexagone perfect, but if you will make eares, they must bee built vpon the two third parts of the lines of the Flanke IK HL as appeares at.</p>
             </div>
@@ -1937,7 +1974,10 @@ rest likewise, then from the point N draw the right line NI, which shall be the 
                <p>
                   <seg rend="decorInit">F</seg>Irst let the square AB CD be made, &amp; then the square EFGH.</p>
                <p>And to finde the place for the Flanke, diuide the angle ADC by the strait line DI, and the intersection K shew<g ref="char:EOLhyphen"/>eth the point for the Flanke, as in the Forts precedent, and so transport to euery side as in the other, and you shall haue the Fort finished.</p>
-               <figure/>
+               <p>
+                  <pb n="205" facs="tcp:10323:112"/>
+                  <figure/>
+               </p>
             </div>
             <div n="9" type="chapter">
                <pb n="206" facs="tcp:10323:113"/>
@@ -1955,7 +1995,10 @@ rest likewise, then from the point N draw the right line NI, which shall be the 
                <p>NO The heele of the ditch 10 foot.</p>
                <p>OP The couered walk of the coun<g ref="char:EOLhyphen"/>terescarpe.</p>
                <p>PQ The counter escarpe 6. foot of height.</p>
-               <figure/>
+               <p>
+                  <pb facs="tcp:10323:114"/>
+                  <figure/>
+               </p>
             </div>
             <div n="10" type="chapter">
                <pb n="209" facs="tcp:10323:114"/>
